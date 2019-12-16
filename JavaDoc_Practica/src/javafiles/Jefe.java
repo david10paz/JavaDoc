@@ -1,5 +1,13 @@
 package javafiles;
 
+/**
+ * Clase que representa al jefe
+ * 
+ * @author davii
+ * @version 1.0
+ * 
+ */
+
 public class Jefe {
 
 	public String id;

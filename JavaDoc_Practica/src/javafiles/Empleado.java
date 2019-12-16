@@ -1,5 +1,13 @@
 package javafiles;
 
+/**
+ * Clase que representa al empleado.
+ * 
+ * @author davii
+ * @version 1.0
+ *
+ */
+
 public class Empleado {
 
 	/**
