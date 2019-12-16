@@ -5,6 +5,7 @@ package javafiles;
  * 
  * <h2>Proyecto Javadoc</h2>
  * <p><b> Clase Empleado </b></p>
+ * <p><a> href = "https://github.com/david10paz/JavaDoc"</a> Ver proyecto JavaDoc en github </p>
  * 
  * @author davii
  * @version 1.0
