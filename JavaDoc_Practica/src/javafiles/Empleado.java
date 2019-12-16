@@ -5,6 +5,9 @@ package javafiles;
  * 
  * @author davii
  * @version 1.0
+ * @since 0.3
+ * @license GPL v3
+ * @see Jefe
  *
  */
 
