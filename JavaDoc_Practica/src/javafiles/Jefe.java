@@ -16,11 +16,17 @@ public class Jefe {
 	public String nombre;
 	public String dni;
 	
-	
+	/**
+	 * 
+	 * @return id del jefe
+	 */
 	public String getId() {
 		return id;
 	}
-	
+	/**
+	 * 
+	 * @param id Es el id del jefe
+	 */
 	public void setId(String id) {
 		this.id = id;
 	}

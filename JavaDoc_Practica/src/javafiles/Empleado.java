@@ -21,11 +21,17 @@ public class Empleado {
 	public String nombre;
 	public String dni;
 	
-	
+	/**
+	 * 
+	 * @return El numero de empleado del empleado
+	 */
 	public String getNumempleado() {
 		return numempleado;
 	}
-	
+	/**
+	 * 
+	 * @param numempleado Este es el numero que identifica al empleado
+	 */
 	public void setNumempleado(String numempleado) {
 		this.numempleado = numempleado;
 	}
