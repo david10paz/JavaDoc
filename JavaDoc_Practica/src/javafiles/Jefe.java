@@ -3,6 +3,10 @@ package javafiles;
 /**
  * Clase que representa al jefe
  * 
+ * <h2>Proyecto Javadoc</h2>
+ * <p><b> Clase Jefe </b></p>
+ * <p> Los atributos de esta clase son id, nombre, dni. </p>
+ *
  * @author davii
  * @version 1.0
  * @since 0.3
