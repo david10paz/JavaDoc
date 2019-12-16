@@ -3,6 +3,9 @@ package javafiles;
 /**
  * Clase que representa al empleado.
  * 
+ * <h2>Proyecto Javadoc</h2>
+ * <p><b> Clase Empleado </b></p>
+ * 
  * @author davii
  * @version 1.0
  * @since 0.3
